@@ -140,7 +140,7 @@ const AboutPage = () => {
             >
               <h3>Competitions & Projects</h3>
               <p>
-                Our club participates in astronomy competitions and conducts research projects. These activities challenge members to apply their knowledge and develop critical thinking skills while exploring fascinating astronomical phenomena.
+                Our club participates in astronomy competitions, Earth Science Olympiad and conducts research projects. These activities challenge members to apply their knowledge and develop critical thinking skills while exploring fascinating astronomical phenomena.
               </p>
             </AboutCard>
           </Grid>
@@ -150,7 +150,7 @@ const AboutPage = () => {
           <SectionSubtitle>Join Us</SectionSubtitle>
           
           <p>
-            The GNS Astronomy Club meets every Wednesday after school in Room 401. No prior knowledge of astronomy is required to join – just bring your curiosity and enthusiasm! We welcome new members throughout the school year.
+            The GNS Astronomy Club meets every __ (day of the week) after school in Room __ (astro room). No prior knowledge of astronomy is required to join – just bring your curiosity and enthusiasm! We welcome new members throughout the school year.
           </p>
           
           <Spacer />

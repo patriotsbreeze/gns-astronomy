@@ -48,45 +48,45 @@ const BoardSubtitle = styled(motion.p)`
 const boardMembers = [
   {
     id: 1,
-    name: 'Alex Johnson',
+    name: 'Nandini Khaneja',
     role: 'President',
-    bio: 'Alex has been passionate about astronomy since childhood. They lead the club with enthusiasm and have a special interest in exoplanets and the search for extraterrestrial life.',
+    bio: 'Nandini has been passionate about astronomy since childhood. etc',
     image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
   },
   {
     id: 2,
-    name: 'Jamie Rodriguez',
-    role: 'Vice President',
-    bio: 'Jamie specializes in astrophotography and has won several awards for their stunning images of nebulae. They coordinate our observation nights and equipment management.',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
+    name: 'name',
+    role: 'role ',
+    bio: 'text ',
+    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
   },
   {
     id: 3,
-    name: 'Taylor Kim',
-    role: 'Secretary',
-    bio: 'Taylor is majoring in Physics and plans to pursue a career in astrophysics. They manage club communications and organize our educational workshops.',
-    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
+    name: 'name',
+    role: 'role ',
+    bio: 'text ',
+    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
   },
   {
     id: 4,
-    name: 'Jordan Patel',
-    role: 'Treasurer',
-    bio: 'Jordan handles the club\'s finances and fundraising efforts. Their knowledge of telescope optics has been invaluable for our equipment purchases.',
+    name: 'name',
+    role: 'role ',
+    bio: 'text ',
     image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
   },
   {
     id: 5,
-    name: 'Morgan Lee',
-    role: 'Events Coordinator',
-    bio: 'Morgan organizes all club events and outreach programs. They have a talent for making complex astronomical concepts accessible to everyone.',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
+    name: 'name',
+    role: 'role ',
+    bio: 'text ',
+    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
   },
   {
     id: 6,
-    name: 'Riley Chen',
-    role: 'Social Media Manager',
-    bio: 'Riley manages our online presence and creates engaging content about astronomy. They are particularly interested in the history of space exploration.',
-    image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
+    name: 'name',
+    role: 'role ',
+    bio: 'text ',
+    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
   }
 ];
 

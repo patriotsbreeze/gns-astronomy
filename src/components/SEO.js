@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet';
 const SEO = ({ title, description, keywords }) => {
   const defaultTitle = 'GNS Astronomy Club | Great Neck South High School';
   const defaultDescription = 'The official website of the Great Neck South High School Astronomy Club. Join us to explore the cosmos and learn about astronomy.';
-  const defaultKeywords = 'astronomy, club, Great Neck South, high school, space, planets, stars, cosmos, telescope, stargazing';
+  const defaultKeywords = 'astronomy, club, Great Neck South, high school, space, planets, stars, cosmos, telescope, stargazing, Great Neck South Astronomy Club, gns astronomy, gns astro';
   
   const siteTitle = title ? `${title} | GNS Astronomy Club` : defaultTitle;
   
@@ -16,7 +16,7 @@ const SEO = ({ title, description, keywords }) => {
       
       {/* Open Graph / Facebook */}
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://gnsastronomy.org/" />
+      <meta property="og:url" content="https://gns-astronomy.vercel.app" />
       <meta property="og:title" content={siteTitle} />
       <meta property="og:description" content={description || defaultDescription} />
       <meta property="og:image" content="/og-image.jpg" />

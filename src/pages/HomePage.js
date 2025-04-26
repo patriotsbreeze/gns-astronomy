@@ -273,7 +273,7 @@ const HomePage = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <SectionTitle>What We Do</SectionTitle>
+          <SectionTitle>What We Do -- i just made up some random things, u can change later</SectionTitle>
           
           <FeaturesGrid>
             <FeatureCard
@@ -330,9 +330,9 @@ const HomePage = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
           >
-            <FeatureTitle>Lunar Eclipse Viewing</FeatureTitle>
+            <FeatureTitle>Lunar Eclipse</FeatureTitle>
             <FeatureDescription>
-              Join us for a special event to observe the upcoming lunar eclipse. We'll have telescopes set up and experts on hand to explain the phenomenon.
+              Join us for the lunar eclipse. insert description idk. 
             </FeatureDescription>
             <Spacer height="1rem" />
             <Button 
@@ -353,9 +353,9 @@ const HomePage = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
           >
-            <FeatureTitle>Astrophotography Workshop</FeatureTitle>
+            <FeatureTitle>Weekly Meeting</FeatureTitle>
             <FeatureDescription>
-              Learn how to capture stunning images of the night sky with your camera or smartphone. Basic equipment will be provided.
+              insert description 
             </FeatureDescription>
             <Spacer height="1rem" />
             <Button 
@@ -364,7 +364,7 @@ const HomePage = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              Register
+              RSVP (for example.. idk)
             </Button>
           </FeatureCard>
         </PageSection>
